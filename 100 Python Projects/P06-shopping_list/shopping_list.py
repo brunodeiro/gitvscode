@@ -1,6 +1,6 @@
 """"
 Este projeto tem como objetivo a criação de uma lista de compras | 
-This project has a shopping list
+This project has a goal a shopping list
 """
 import os
 
